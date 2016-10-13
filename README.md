@@ -1,0 +1,2 @@
+# feathers-chat
+FeathersJS Chat
